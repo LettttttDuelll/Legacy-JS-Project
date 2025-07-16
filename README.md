@@ -1,6 +1,9 @@
 # Legacy-JS-Project
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects
 
+<span style="color:red">Văn bản màu đỏ</span>
+<span style="color:#00ff00">Văn bản màu xanh lá</span>
+<span style="color:blue">Văn bản màu xanh dương</span>
 Palindrome Checker
 
 Return true if the given string is a palindrome. Otherwise, return false.
