@@ -1,6 +1,10 @@
 # Legacy-JS-Project
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects
 
+<span style="color:red">Đỏ</span>
+<span style="color:#00FF00">Xanh lá (HEX)</span>
+<span style="color:rgb(0, 0, 255)">Xanh dương (RGB)</span>
+
 Palindrome Checker
 
 Return true if the given string is a palindrome. Otherwise, return false.
