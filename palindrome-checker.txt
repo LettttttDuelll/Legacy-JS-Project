@@ -1,0 +1,14 @@
+** start of script.js **
+
+function palindrome(str) {
+  let newStr = str.toLowerCase().replace(/[^a-z0-9]/g, '');
+  //let newStr = str.toLowerCase().replace(/[ -,._*#!@$\/:]/g, '');
+  let reverStr= newStr.split("").reverse().join("");
+  if (newStr === reverStr) return true;
+  else return false;
+}
+
+palindrome("eye");
+
+** end of script.js **
+
